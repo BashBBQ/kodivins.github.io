@@ -16,6 +16,8 @@
 
 
 
+# TUTORIAL
+
 Tutorial and example repository for setting up a GitHub-hosted Kodi repo. \
 This repo is cloned from https://github.com/drinfernoo/repository.example \
 The only difference this README file with some extra documentation.
