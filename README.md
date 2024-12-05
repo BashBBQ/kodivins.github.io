@@ -1,6 +1,7 @@
 # KODI - configurazioni suggerite
 
 1 Player > Language > Preferred audio language = Set your Preferred language here
+
 2 Player > Language > Preferred subtitle language = Forced only
 3 Media > General > Show parent folder items = Off
 4 Interface > Regional = Configure regional settings to your preference
